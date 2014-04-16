@@ -1,6 +1,6 @@
 ## Node Boilerplate
 
-### Currently this repo has the following dependancies:
+### This repo has the following dependencies:
 
 1. [Express.js v4.0](http://expressjs.com/)
   	* [EJS Templates](http://embeddedjs.com/)
