@@ -29,6 +29,7 @@ module.exports = function(grunt) {
   // Load the tasks
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-concat');
+  grunt.loadNpmTasks('grunt-uncss');
 
   // Default task(s).
   grunt.registerTask('default', ['jshint', 'concat']);
